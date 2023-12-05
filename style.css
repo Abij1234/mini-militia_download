@@ -1,0 +1,21 @@
+body{
+  background: black;
+}
+
+h2{
+  color: white;
+}
+
+.heading{
+  margin-top: 50%;
+}
+
+a{
+  border: 1px solid blue;
+  border-radius: 5px;
+  background-color: blue;
+  width: 80px;
+  height: 30px;
+  color: white;
+  text-decoration: none;
+}
